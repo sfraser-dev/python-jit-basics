@@ -24,7 +24,7 @@ print(f"The sum of 1 and 1 is: {1+1}")
 
 # JS Python comparison: user input
 # JS window.prompt() === Python input()
-""""
+"""" # skip asking user input, get annoying in the middle of a test script
 first_number = int(input("Enter first number: "))
 second_number = int(input("Enter second number: "))
 total = first_number + second_number
