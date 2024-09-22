@@ -1,1 +1,1 @@
-justit bootcamp lesson assignment.
+Just IT bootcamp, various Python assignments.
